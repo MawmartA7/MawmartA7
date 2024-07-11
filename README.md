@@ -13,8 +13,7 @@
 
 ### Main skills
 
-<div style="background-color:#171D1C;padding:5px 10px 5px 7px;width:max-content; height:max-content;margin-bottom:8px;display:flex;gap:20px;" ><img src="./informacoes/logo-java.png" alt="Java" style="width:18px;"><span style="font-family:'Ubuntu Sans mono';font-size:12px;color:#fff;">JAVA</span></div>
-
+![Java](https://img.shields.io/badge/-Java-171D1C?style=for-the-badge&logo=Java&labelColor=171D1C)&nbsp;
 ![Springboot](https://img.shields.io/badge/-Springboot-171D1C?style=for-the-badge&logo=Springboot&labelColor=171D1C&textColor=171D1C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-171D1C?style=for-the-badge&logo=javascript&labelColor=171D1C&textColor=171D1C)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-171D1C?style=for-the-badge&logo=node.js&labelColor=171D1C&textColor=171D1C)&nbsp;
@@ -41,8 +40,7 @@
 
 ### Studying in this moment
 
-<div style="background-color:#171D1C;padding:5px 10px 5px 7px;width:max-content; height:max-content;margin-bottom:8px;display:flex;gap:20px;" ><img src="./informacoes/logo-java.png" alt="Java" style="width:18px;"><span style="font-family:'Ubuntu Sans mono';font-size:12px;color:#fff;">JAVA</span></div>
-
+![Java](https://img.shields.io/badge/-Java-171D1C?style=for-the-badge&logo=Java&labelColor=171D1C)&nbsp;
 ![Springboot](https://img.shields.io/badge/-Springboot-171D1C?style=for-the-badge&logo=Springboot&labelColor=171D1C&textColor=171D1C)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-171D1C?style=for-the-badge&logo=Docker&labelColor=171D1C&textColor=171D1C)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-171D1C?style=for-the-badge&logo=react&labelColor=171D1C)&nbsp;
@@ -59,8 +57,7 @@
 
 #### Technologies used
 
-<div style="background-color:#171D1C;padding:5px 10px 5px 7px;width:max-content; height:max-content;margin-bottom:8px;display:flex;gap:20px;" ><img src="./informacoes/logo-java.png" alt="Java" style="width:18px;"><span style="font-family:'Ubuntu Sans mono';font-size:12px;color:#fff;">JAVA</span></div>
-
+![Java](https://img.shields.io/badge/-Java-171D1C?style=for-the-badge&logo=Java&labelColor=171D1C)&nbsp;
 ![Springboot](https://img.shields.io/badge/-Springboot-171D1C?style=for-the-badge&logo=Springboot&labelColor=171D1C&textColor=171D1C)&nbsp;
 ![Postgresql](https://img.shields.io/badge/-Postgresql-171D1C?style=for-the-badge&logo=Postgresql&labelColor=171D1C)&nbsp;
 
@@ -69,8 +66,7 @@
 
 #### Technologies used
 
-<div style="background-color:#171D1C;padding:5px 10px 5px 7px;width:max-content; height:max-content;margin-bottom:8px;display:flex;gap:20px;" ><img src="./informacoes/logo-vite.png" alt="Java" style="width:18px;"><span style="font-family:'Ubuntu Sans mono';font-size:12px;color:#fff;">VITE</span></div>
-
+![Vite](https://img.shields.io/badge/-Vite-171D1C?style=for-the-badge&labelColor=171D1C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-171D1C?style=for-the-badge&logo=javascript&labelColor=171D1C&textColor=171D1C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-171D1C?style=for-the-badge&logo=html5&labelColor=171D1C)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-171D1C?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=171D1C)&nbsp;

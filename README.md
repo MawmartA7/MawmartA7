@@ -16,8 +16,7 @@
 ![Java](https://img.shields.io/badge/-java-171D1C?style=for-the-badge&logo=openjdk&labelColor=171D1C)&nbsp;
 ![Springboot](https://img.shields.io/badge/-Springboot-171D1C?style=for-the-badge&logo=Springboot&labelColor=171D1C&textColor=171D1C)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-171D1C?style=for-the-badge&logo=TypeScript&labelColor=171D1C&textColor=171D1C)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-171D1C?style=for-the-badge&logo=node.js&labelColor=171D1C&textColor=171D1C)&nbsp;
-![Postgresql](https://img.shields.io/badge/-Postgresql-171D1C?style=for-the-badge&logo=Postgresql&labelColor=171D1C)&nbsp;
+![React](https://img.shields.io/badge/-React-171D1C?style=for-the-badge&logo=React&labelColor=171D1C&textColor=171D1C)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-171D1C?style=for-the-badge&logo=MongoDB&labelColor=171D1C)&nbsp;
 
 ### Tools
@@ -32,51 +31,58 @@
 ### Other Knowledge
 
 ![HTML](https://img.shields.io/badge/-HTML-171D1C?style=for-the-badge&logo=html5&labelColor=171D1C)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-171D1C?style=for-the-badge&logo=figma&labelColor=171D1C)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-171D1C?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=171D1C)&nbsp;
+![MUI](https://img.shields.io/badge/-MUI-171D1C?style=for-the-badge&logo=mui&labelColor=171D1C)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-171D1C?style=for-the-badge&logo=TailwindCSS&labelColor=171D1C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-171D1C?style=for-the-badge&logo=javascript&labelColor=171D1C&textColor=171D1C)&nbsp;
 ![Epressjs](https://img.shields.io/badge/-Epressjs-171D1C?style=for-the-badge&logo=express&labelColor=171D1C)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-171D1C?style=for-the-badge&logo=Vite&labelColor=171D1C)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-171D1C?style=for-the-badge&logo=react&labelColor=171D1C)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-171D1C?style=for-the-badge&logo=figma&labelColor=171D1C)&nbsp;
-![Mysql](https://img.shields.io/badge/-Mysql-171D1C?style=for-the-badge&logo=Mysql&labelColor=171D1C)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-171D1C?style=for-the-badge&logo=TailwindCSS&labelColor=171D1C)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-171D1C?style=for-the-badge&logo=docker&labelColor=171D1C)&nbsp;
+![Postgresql](https://img.shields.io/badge/-Postgresql-171D1C?style=for-the-badge&logo=Postgresql&labelColor=171D1C)&nbsp;
+![Mysql](https://img.shields.io/badge/-Mysql-171D1C?style=for-the-badge&logo=Mysql&labelColor=171D1C)&nbsp;
 
 ### Studying in this moment
 
-![Java](https://img.shields.io/badge/-java-171D1C?style=for-the-badge&logo=openjdk&labelColor=171D1C)&nbsp;
+![Basic English](https://img.shields.io/badge/-basic_english-171D1C?style=for-the-badge&&labelColor=171D1C)&nbsp;
 ![Springboot](https://img.shields.io/badge/-Springboot-171D1C?style=for-the-badge&logo=Springboot&labelColor=171D1C&textColor=171D1C)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-171D1C?style=for-the-badge&logo=Docker&labelColor=171D1C&textColor=171D1C)&nbsp;
-![React.ts](https://img.shields.io/badge/-React.ts-171D1C?style=for-the-badge&logo=react&labelColor=171D1C)&nbsp;
-![Material UI](https://img.shields.io/badge/-Material_UI-171D1C?style=for-the-badge&logo=mui&labelColor=171D1C)&nbsp;
+![React](https://img.shields.io/badge/-React-171D1C?style=for-the-badge&logo=react&labelColor=171D1C)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-171D1C?style=for-the-badge&logo=TypeScript&labelColor=171D1C&textColor=171D1C)&nbsp;
 
 <hr style="height:4px;border-radius:2px;background-color:#585C9F;"/>
 
 ### My portifolio
 
-1. [**todoj-spring-boot**](https://github.com/MawmartA7/todoJ-spring-boot)
+1. [**LinkIt**](https://github.com/MawmartA7/LinkIt) (under development)
+
+    The LinkIt is an open source url shortener. What is a url shortener?  A url shortener is an application that is used both for everyday use and for professional use in marketing.  It is used to “transform” a long url into a short one, (it redirects the registered url to a new shorter one created by the url shortener). Its benefits are:
+
+    - Cleaner post or text;
+    - Click tracking;
+    - Organization.
+
+    The LinkIt is my first, full-stack project with React and it's my first time using TypeScirpt, ESLint, MUI (Material UI) and MongoDB.
+
+#### Technologies used
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-171D1C?style=for-the-badge&logo=TypeScript&labelColor=171D1C)&nbsp;![Vite](https://img.shields.io/badge/-Vite-171D1C?style=for-the-badge&logo=Vite&labelColor=171D1C)&nbsp;![React](https://img.shields.io/badge/-React-171D1C?style=for-the-badge&logo=React&labelColor=171D1C)&nbsp;![MUI](https://img.shields.io/badge/-MUI-171D1C?style=for-the-badge&logo=MUI&labelColor=171D1C)&nbsp;![ESLint](https://img.shields.io/badge/-ESLint-171D1C?style=for-the-badge&logo=ESLint&labelColor=171D1C&textColor=171D1C)&nbsp;![Java](https://img.shields.io/badge/-java-171D1C?style=for-the-badge&logo=openjdk&labelColor=171D1C)&nbsp;![Springboot](https://img.shields.io/badge/-Springboot-171D1C?style=for-the-badge&logo=Springboot&labelColor=171D1C&textColor=171D1C)&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-171D1C?style=for-the-badge&logo=MongoDB&labelColor=171D1C&textColor=171D1C)&nbsp;![Docker](https://img.shields.io/badge/-Docker-171D1C?style=for-the-badge&logo=Docker&labelColor=171D1C&textColor=171D1C)&nbsp;
+
+2. [**todoj-spring-boot**](https://github.com/MawmartA7/todoJ-spring-boot)
 
    A challenge for myself: to make a "TODO LIST" in java with spring boot connected to a postgresql database. Being as serious as possible, with commits, architecture and everything in English.  Trying to make the best code and format I can.
 
 #### Technologies used
 
-![Java](https://img.shields.io/badge/-java-171D1C?style=for-the-badge&logo=openjdk&labelColor=171D1C)&nbsp;
-![Springboot](https://img.shields.io/badge/-Springboot-171D1C?style=for-the-badge&logo=Springboot&labelColor=171D1C&textColor=171D1C)&nbsp;
-![Postgresql](https://img.shields.io/badge/-Postgresql-171D1C?style=for-the-badge&logo=Postgresql&labelColor=171D1C)&nbsp;
-![Mockito](https://img.shields.io/badge/-Mockito-171D1C?style=for-the-badge&logo=Mockito&labelColor=171D1C&textColor=171D1C)&nbsp;
+![Java](https://img.shields.io/badge/-java-171D1C?style=for-the-badge&logo=openjdk&labelColor=171D1C)&nbsp;![Springboot](https://img.shields.io/badge/-Springboot-171D1C?style=for-the-badge&logo=Springboot&labelColor=171D1C&textColor=171D1C)&nbsp;![Postgresql](https://img.shields.io/badge/-Postgresql-171D1C?style=for-the-badge&logo=Postgresql&labelColor=171D1C)&nbsp;![Mockito](https://img.shields.io/badge/-Mockito-171D1C?style=for-the-badge&logo=Mockito&labelColor=171D1C&textColor=171D1C)&nbsp;
 
-1. [**Calculadoura-de-juros-compostos**](https://github.com/MawmartA7/Calculadoura-de-juros-compostos)
+3. [**Calculadoura-de-juros-compostos**](https://github.com/MawmartA7/Calculadoura-de-juros-compostos)
 
    This is a calculator with graphs and tables, designed to calculate your interest on dividends from your stock market assets.
 
 #### Technologies used
 
-![Vite](https://img.shields.io/badge/-Vite-171D1C?style=for-the-badge&logo=Vite&labelColor=171D1C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-171D1C?style=for-the-badge&logo=javascript&labelColor=171D1C&textColor=171D1C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-171D1C?style=for-the-badge&logo=html5&labelColor=171D1C)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-171D1C?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=171D1C)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-171D1C?style=for-the-badge&logo=TailwindCSS&labelColor=171D1C)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-171D1C?style=for-the-badge&logo=Vite&labelColor=171D1C)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-171D1C?style=for-the-badge&logo=javascript&labelColor=171D1C&textColor=171D1C)&nbsp;![HTML](https://img.shields.io/badge/-HTML-171D1C?style=for-the-badge&logo=html5&labelColor=171D1C)&nbsp;![CSS](https://img.shields.io/badge/-CSS-171D1C?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=171D1C)&nbsp;![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-171D1C?style=for-the-badge&logo=TailwindCSS&labelColor=171D1C)&nbsp;
 
 <hr style="height:4px;border-radius:2px;background-color:#585C9F;"/>
 

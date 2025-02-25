@@ -23,6 +23,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-171D1C?style=for-the-badge&logo=git&labelColor=171D1C)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-171D1C?style=for-the-badge&logo=github&labelColor=171D1C)&nbsp;
+![GitHubCopilot](https://img.shields.io/badge/-GitHub%20Copilot-171D1C?style=for-the-badge&logo=github%20copilot&labelColor=171D1C)&nbsp;
 ![GPT](https://img.shields.io/badge/-GPT-171D1C?style=for-the-badge&logo=OpenAI&labelColor=171D1C)&nbsp;
 ![linux](https://img.shields.io/badge/-linux-171D1C?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=171D1C)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-171D1C?style=for-the-badge&logo=windows&labelColor=171D1C)&nbsp;

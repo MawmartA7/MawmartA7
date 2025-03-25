@@ -55,7 +55,7 @@
 
 ### My portifolio
 
-1. [**LinkIt**](https://github.com/MawmartA7/LinkIt) (under development)
+1. [**LinkIt**](https://github.com/MawmartA7/LinkIt)
 
     The LinkIt is an open source url shortener. What is a url shortener?  A url shortener is an application that is used both for everyday use and for professional use in marketing.  It is used to “transform” a long url into a short one, (it redirects the registered url to a new shorter one created by the url shortener). Its benefits are:
 

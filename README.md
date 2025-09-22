@@ -17,7 +17,7 @@
 ![Springboot](https://img.shields.io/badge/-Springboot-171D1C?style=for-the-badge&logo=Springboot&labelColor=171D1C&textColor=171D1C)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-171D1C?style=for-the-badge&logo=TypeScript&labelColor=171D1C&textColor=171D1C)&nbsp;
 ![React](https://img.shields.io/badge/-React-171D1C?style=for-the-badge&logo=React&labelColor=171D1C&textColor=171D1C)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-171D1C?style=for-the-badge&logo=MongoDB&labelColor=171D1C)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-171D1C?style=for-the-badge&logo=Docker&labelColor=171D1C&textColor=171D1C)&nbsp;
 
 ### Tools
 
@@ -33,22 +33,21 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-171D1C?style=for-the-badge&logo=html5&labelColor=171D1C)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-171D1C?style=for-the-badge&logo=figma&labelColor=171D1C)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-171D1C?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=171D1C)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-171D1C?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=171D1C)&nbsp;
 ![MUI](https://img.shields.io/badge/-MUI-171D1C?style=for-the-badge&logo=mui&labelColor=171D1C)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-171D1C?style=for-the-badge&logo=TailwindCSS&labelColor=171D1C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-171D1C?style=for-the-badge&logo=javascript&labelColor=171D1C&textColor=171D1C)&nbsp;
 ![Epressjs](https://img.shields.io/badge/-Epressjs-171D1C?style=for-the-badge&logo=express&labelColor=171D1C)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-171D1C?style=for-the-badge&logo=Vite&labelColor=171D1C)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-171D1C?style=for-the-badge&logo=docker&labelColor=171D1C)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-171D1C?style=for-the-badge&logo=MongoDB&labelColor=171D1C)&nbsp;
 ![Postgresql](https://img.shields.io/badge/-Postgresql-171D1C?style=for-the-badge&logo=Postgresql&labelColor=171D1C)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-171D1C?style=for-the-badge&logo=Mysql&labelColor=171D1C)&nbsp;
 
 ### Studying in this moment
 
 ![Basic English](https://img.shields.io/badge/-basic_english-171D1C?style=for-the-badge&&labelColor=171D1C)&nbsp;
-![Springboot](https://img.shields.io/badge/-Springboot-171D1C?style=for-the-badge&logo=Springboot&labelColor=171D1C&textColor=171D1C)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-171D1C?style=for-the-badge&logo=Docker&labelColor=171D1C&textColor=171D1C)&nbsp;
-![React](https://img.shields.io/badge/-React-171D1C?style=for-the-badge&logo=react&labelColor=171D1C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-171D1C?style=for-the-badge&logo=Python&labelColor=171D1C&textColor=171D1C)&nbsp;
+![Django](https://img.shields.io/badge/-Django-171D1C?style=for-the-badge&logo=Django&labelColor=171D1C)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-171D1C?style=for-the-badge&logo=TypeScript&labelColor=171D1C&textColor=171D1C)&nbsp;
 
 <hr style="height:4px;border-radius:2px;background-color:#585C9F;"/>

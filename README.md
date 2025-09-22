@@ -89,8 +89,8 @@
 ### Contact
 
 <ul>
-  <li><img src="./informacoes/logo-whatsapp.svg" style="width:14px;margin-right:5px;"><span> <strong>Whatsapp:</strong> +55 (21) 99455-5856</span></li>
-  <li><img src="./informacoes/logo-gmail.svg" style="width:14px;margin-right:5px;"><span> <strong>Email:</strong> aaronstmart@gmail.com</span></li>
+  <li><img src="./informacoes/logo-whatsapp.svg" style="width:14px;margin-right:5px;"><span> <strong>Whatsapp:</strong> +55 (21) 97158-8301</span></li>
+  <li><img src="./informacoes/logo-gmail.svg" style="width:14px;margin-right:5px;"><span> <strong>Email:</strong> aaronstmart.dev@gmail.com</span></li>
 </ul>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5863F8&height=120&section=footer"/>
